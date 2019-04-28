@@ -2,7 +2,7 @@
 > Educational project realised during Front-end Developer Bootcamp @Kodilla
 
 ## General info
-Simple web application created in JavaScript. The main purpose was to search countries in search engine anf display basic informations like capital, languages and flag.
+Simple web application created in JavaScript. The main purpose was to search countries in search engine and display basic informations like capital, languages and flag.
 
 ## Technologies
 * HTML5
