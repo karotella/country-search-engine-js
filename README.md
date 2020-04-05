@@ -4,6 +4,9 @@
 ## General info
 Simple web application created in JavaScript. The main purpose was to search countries in search engine and display basic informations like capital, languages and flag.
 
+## Preview
+[View Live Preview](https://karotella.github.io/country-search-engine-js/)
+
 ## Technologies
 * HTML5
 * CSS3
